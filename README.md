@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rockinraymond
 - 👀 I’m interested in video games and other open source development
-- 🌱 I’m currently working with/learning JS, Java, C++, and Blitz
-- 💞️ I’m looking to collaborate on anything to gain experience
+- 🌱 I’m currently working with/learning JS, Java, C++, Godot and Blitz
 - 📫 How to reach me wyattcraymond@gmail.com
 - website: www.wyattcraymond.com 
 
